@@ -1,3 +1,5 @@
 # magnum-opus
 
-Hey dude this is a small message
+Project for Don Macarthur Web Development
+
+Team Members: Don Macarthur
